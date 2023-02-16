@@ -1,11 +1,20 @@
 ### Ola! eu sou Pedro Cavalcanti. 👋
 <hr>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedromarfiano&hide_progress=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedromarfiano&hide_progress=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedromarfiano&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+-->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedromarfiano&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<!-- <div>
+  <i class="devicon-angularjs-plain"></i>
+</div> -->
 
 
 
