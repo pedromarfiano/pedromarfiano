@@ -17,7 +17,10 @@
 </div> -->
 
 
-![snake gif](https://github.com/pedromarfiano/pedromarfiano/blob/output/github-contribution-grid-snake.svg)
+![](https://github.com/pedromarfiano/snk/raw/output/github-contribution-grid-snake.svg)
+
+
+Generate a [gif](https://github.com/pedromarfiano/snk/raw/output/github-contribution-grid-snake.gif) or [svg](https://github.com/pedromarfiano/snk/raw/output/github-contribution-grid-snake.svg) image.
 
 <!--
 **pedromarfiano/pedromarfiano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
