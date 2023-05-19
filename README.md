@@ -12,7 +12,7 @@ Minhas tecnologias:
 <hr>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,react,vue,php,jquery,mysql" />
+    <img src="https://skillicons.dev/icons?i=python,cs,ts,react,vue,php,jquery,mysql" />
   </a>
 </p>
 Tecnologias para designe:
@@ -20,6 +20,13 @@ Tecnologias para designe:
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ps,figma" />
+  </a>
+</p>
+Outros conhecimentos:
+<hr>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,unity,blender" />
   </a>
 </p>
 
