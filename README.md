@@ -26,7 +26,7 @@ Outros conhecimentos:
 <hr>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,unity,blender" />
+    <img src="https://skillicons.dev/icons?i=linux,unity,blender,arduino" />
   </a>
 </p>
 
