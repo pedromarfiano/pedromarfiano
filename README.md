@@ -1,18 +1,23 @@
-<h2> Ola! eu sou Pedro Cavalcanti. 👋</h2>
-<hr>
+<html>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+<body font="Raleway">
+  
+  <img src="header.svg" width="800" height="400">
+  
+<h2 color="red"> Ola! eu sou Pedro Cavalcanti. 👋</h2>
+
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-Tecnologias que mais utilizo:
-<hr>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs" />
-  </a>
-</p>
+
 Minhas tecnologias:
 <hr>
-<p align="left">
+<p align="left" background="#fff" width="100%">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cs,ts,react,vue,php,jquery,mysql" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react" />
+  </a> <br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cs,nodejs,php,jquery,mysql" />
   </a>
 </p>
 Tecnologias para designe:
@@ -26,13 +31,11 @@ Outros conhecimentos:
 <hr>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,unity,blender,arduino" />
+    <img src="https://skillicons.dev/icons?i=linux,unity,blender,arduino,aws" />
   </a>
 </p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedromarfiano&repo=github-readme-stats&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedromarfiano&hide_progress=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedromarfiano&hide_progress=true&theme=midnight-purple)](https://github.com/pedromarfiano/github-readme-stats)
 <br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedromarfiano&show_icons=true&theme=midnight-purple)](https://github.com/pedromarfiano/github-readme-stats)
 
@@ -55,3 +58,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</body>
+</html>
