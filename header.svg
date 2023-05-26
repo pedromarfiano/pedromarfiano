@@ -2,13 +2,31 @@
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
 
+      
       <style>
-        p{
-          color: #ff0000;
+        body{
+          font-family: 'Raleway', sans-serif;
+          color: #fff;
+          padding: 5%;
+        
+          width: 100%;
+          height: 100%;
+          position: absolute;
+          background: linear-gradient(45deg,#F17C58, #E94584, #24AADB , #27DBB1,#FFDC18, #FF3706);
+          background-size: 600% 100%;
+          animation: gradient 16s linear infinite;
+          animation-direction: alternate;
+        }
+        @keyframes gradient {
+            0% {background-position: 0%}
+            100% {background-position: 100%}
         }
       </style>
 
-      <p> pika </p>
+      <body>
+        <h1> Ola! eu sou Pedro Cavalcanti. 👋</h1>
+        <h2>Dev fullstack</h2>
+      </body>
 
     </div>
   </foreignObject>
