@@ -8,6 +8,8 @@
           font-family: 'Raleway', sans-serif;
           color: #fff;
           padding: 5%;
+          border-radius: 0px 10px 0px 10px;
+          box-shadow: #000 10px 10px 15px;
         
           width: 100%;
           height: auto;
