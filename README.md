@@ -7,15 +7,22 @@
 <body font="Raleway">
   
   <img align="center" src="header.svg" height="300px">
-
+  
+Tecnológicas que estou usando:
+<hr>
+<p align="left" background="#fff" width="100%">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,nodejs,mongodb,react" />
+  </a>
+</p>
 Minhas tecnologias:
 <hr>
 <p align="left" background="#fff" width="100%">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,vue" />
   </a> <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cs,nodejs,php,jquery,mysql" />
+    <img src="https://skillicons.dev/icons?i=python,cs,php,jquery,mysql,docker" />
   </a>
 </p>
 Tecnologias para designe:
