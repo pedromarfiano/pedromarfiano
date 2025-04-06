@@ -8,7 +8,7 @@ Tecnológicas que estou usando:
 <hr>
 <p align="left" background="#fff" width="100%">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,nodejs,mongodb,react" />
+    <img src="https://skillicons.dev/icons?i=ts,nodejs,mongodb" />
   </a>
 </p>
 Minhas tecnologias:
@@ -18,7 +18,7 @@ Minhas tecnologias:
     <img src="https://skillicons.dev/icons?i=html,css,js,vue" />
   </a> <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cs,php,jquery,mysql,docker" />
+    <img src="https://skillicons.dev/icons?i=python,cs,php,jquery,mysql" />
   </a>
 </p>
 Tecnologias para designe:
@@ -32,14 +32,15 @@ Outros conhecimentos:
 <hr>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,unity,blender,arduino,aws" />
+    <img src="https://skillicons.dev/icons?i=linux,blender,arduino" />
   </a>
 </p>
 
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedromarfiano&hide_progress=true&theme=midnight-purple)](https://github.com/pedromarfiano/github-readme-stats)
 <br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedromarfiano&show_icons=true&theme=midnight-purple)](https://github.com/pedromarfiano/github-readme-stats)
-
+-->
 
 <!--![snake gif](https://github.com/pedromarfiano/pedromarfiano/blob/output/github-contribution-grid-snake.svg)-->
 
